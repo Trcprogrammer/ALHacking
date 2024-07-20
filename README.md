@@ -1,6 +1,4 @@
-¡Claro, Tracy! Aquí está el README en inglés y con los códigos de color eliminados:
 
----
 
 # 🛠️ Ethical Hacking Tool 🚀
 
